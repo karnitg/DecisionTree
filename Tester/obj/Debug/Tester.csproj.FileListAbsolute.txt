@@ -1,0 +1,34 @@
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Tester.exe.config
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Tester.exe
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Tester.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\DecisionTree.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\DTO_OlimFollowup.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\OlimArrivalFollowupInKiosk.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\QFlow.Library.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Logger.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\OlimWS_Wrapper.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\QFlow.DeviceManager.Interfaces.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\DecisionTree.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\DTO_OlimFollowup.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\OlimArrivalFollowupInKiosk.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\QFlow.Library.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\OlimWS_Wrapper.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\es\QFlow.Library.resources.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\fr-CA\QFlow.Library.resources.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\bin\Debug\he\QFlow.Library.resources.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\obj\Debug\Tester.exe
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\Tester\obj\Debug\Tester.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\bin\Debug\Tester.exe.config
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\bin\Debug\Tester.exe
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\bin\Debug\Tester.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\bin\Debug\DecisionTree.dll
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\bin\Debug\DecisionTree.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\obj\Debug\Tester.exe
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\Tester\obj\Debug\Tester.pdb

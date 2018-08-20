@@ -1,0 +1,14 @@
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\DecisionTree\bin\Debug\DecisionTree.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\DecisionTree\bin\Debug\DecisionTree.pdb
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\DecisionTree\obj\Debug\DecisionTree.dll
+D:\TFS\Q-nomy Projects\Customers Customization\משרד הקליטה\פיתוח\התייצבות עולים בקיוסק P-105902\OlimArrivalFollowupInKiosk\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree2\DecisionTree\bin\Debug\DecisionTree.dll
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree2\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree2\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree2\DecisionTree\obj\Debug\DecisionTree.dll
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree2\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\DecisionTree\bin\Debug\DecisionTree.dll
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.dll
+C:\Users\karnitg\Documents\Visual Studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
